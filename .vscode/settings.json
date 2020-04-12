@@ -1,0 +1,4 @@
+{
+    "git.ignoreLimitWarning": true,
+    "python.pythonPath": "/home/ansari/miniconda3/envs/myenv/bin/python"
+}
